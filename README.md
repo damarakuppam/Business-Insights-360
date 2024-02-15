@@ -5,29 +5,33 @@ At AtliQ Hardware, we're on a mission to reshape our operational landscape using
 Our goal is clear: shift from Excel-centric data analysis to a robust data analytics project. With a year's worth of insights, we aim to boost performance and instigate game-changing improvements. From Finance to Supply Chain, each department will have a tailored view for strategic decision-making.
 
 📊Finance View: Dive into detailed profit and loss statements and performance trends.
+
 🚀Sales View: Explore customer and product performance, unit economics, and key metrics.
+
 📈Marketing View: Illuminate region and product performance for effective marketing strategies.
+
 🌐Supply Chain View: Gain insights into forecast accuracy, trends, and key supply chain metrics.
+
 👔Executive View: Presenting a holistic snapshot with competitor market share, revenue trends, and top customers.
 Join us in this data-driven evolution, where insights become the catalyst for our success story at AtliQ Hardware! 
 
 Data Transformation:
-	Raw data from MySQL and Excel/CSV files was processed in Power BI, creating a dataset with 15 interconnected tables.
-	Rigorous data quality assurance in Power Query ensured cleanliness by eliminating duplicates and rectifying inconsistencies.
+*	Raw data from MySQL and Excel/CSV files was processed in Power BI, creating a dataset with 15 interconnected tables.
+*	Rigorous data quality assurance in Power Query ensured cleanliness by eliminating duplicates and rectifying inconsistencies.
 
 Data Enhancement:
-	Advanced DAX functions were employed to craft calculated columns and measures, enhancing data accuracy and enabling deeper analytical insights.
+*	Advanced DAX functions were employed to craft calculated columns and measures, enhancing data accuracy and enabling deeper analytical insights.
 
 Departmental Perspectives:
-	Customized views were created for various departments such as Finance, Sales, Marketing, and Supply Chain within the Power BI environment.
-	Visuals were strategically curated, maximizing insights and utilizing formatting techniques for enhanced clarity.
+* Customized views were created for various departments such as Finance, Sales, Marketing, and Supply Chain within the Power BI environment.
+*	Visuals were strategically curated, maximizing insights and utilizing formatting techniques for enhanced clarity.
 
 KPI Integration:
 	Key Performance Indicators (KPIs) were integrated into the visuals, facilitating intuitive comprehension of crucial metrics.
 
  Navigation and Visualization:
-	Seamless page navigation was implemented through button-driven interfaces, enhancing user experience.
-	Streamlined visualization transitions were achieved using bookmark functionality, ensuring a smooth and user-friendly interface.
+*	Seamless page navigation was implemented through button-driven interfaces, enhancing user experience.
+*	Streamlined visualization transitions were achieved using bookmark functionality, ensuring a smooth and user-friendly interface.
 
 
 Skills
